@@ -5810,7 +5810,7 @@
         {
       "type": "Feature",
       "properties": {
-        "name": "the_bahamas" 
+        "name": "The Bahamas" 
     },
   "geometry": {
     "coordinates": [
@@ -6603,6 +6603,7 @@
         }
     ]
 }
+
 
 
 
