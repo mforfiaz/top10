@@ -5810,227 +5810,141 @@
         {
       "type": "Feature",
       "properties": {
-        "featurecla": "Admin-0 country",
-        "scalerank": 1,
-        "labelrank": 4,
-        "sovereignt": "Bahamas",
-        "name_alt": null,
-        "mapcolor7": 1,
-        "mapcolor8": 1,
-        "mapcolor9": 2,
-        "mapcolor13": 5,
-        "pop_est": 389482,
-        "pop_rank": 10,
-        "pop_year": 2019,
-        "gdp_md": 13578,
-        "gdp_year": 2019,
-        "economy": "6. Developing region",
-        "income_grp": "2. High income: nonOECD",
-        "fips_10": "BF",
-        "iso_a2": "BS",
-        "iso_a2_eh": "BS",
-        "iso_a3": "BHS",
-        "iso_a3_eh": "BHS",
-        "iso_n3": "044",
-        "iso_n3_eh": "044",
-        "un_a3": "044",
-        "wb_a2": "BS",
-        "wb_a3": "BHS",
-        "woe_id": 23424758,
-        "woe_id_eh": 23424758,
-        "woe_note": "Exact WOE match as country",
-        "adm0_iso": "BHS",
-        "adm0_diff": null,
-        "adm0_tlc": "BHS",
-        "adm0_a3_us": "BHS",
-        "adm0_a3_fr": "BHS",
-        "adm0_a3_ru": "BHS",
-        "adm0_a3_es": "BHS",
-        "adm0_a3_cn": "BHS",
-        "adm0_a3_tw": "BHS",
-        "adm0_a3_in": "BHS",
-        "adm0_a3_np": "BHS",
-        "adm0_a3_pk": "BHS",
-        "adm0_a3_de": "BHS",
-        "adm0_a3_gb": "BHS",
-        "adm0_a3_br": "BHS",
-        "adm0_a3_il": "BHS",
-        "adm0_a3_ps": "BHS",
-        "adm0_a3_sa": "BHS",
-        "adm0_a3_eg": "BHS",
-        "adm0_a3_ma": "BHS",
-        "adm0_a3_pt": "BHS",
-        "adm0_a3_ar": "BHS",
-        "adm0_a3_jp": "BHS",
-        "adm0_a3_ko": "BHS",
-        "adm0_a3_vn": "BHS",
-        "adm0_a3_tr": "BHS",
-        "adm0_a3_id": "BHS",
-        "adm0_a3_pl": "BHS",
-        "adm0_a3_gr": "BHS",
-        "adm0_a3_it": "BHS",
-        "adm0_a3_nl": "BHS",
-        "adm0_a3_se": "BHS",
-        "adm0_a3_bd": "BHS",
-        "adm0_a3_ua": "BHS",
-        "adm0_a3_un": -99,
-        "adm0_a3_wb": -99,
-        "continent": "North America",
-        "region_un": "Americas",
-        "subregion": "Caribbean",
-        "region_wb": "Latin America & Caribbean",
-        "name_len": 7,
-        "long_len": 7,
-        "abbrev_len": 4,
-        "tiny": -99,
-        "homepart": 1,
-        "min_zoom": 0,
-        "min_label": 4,
-        "max_label": 9,
-        "label_x": -77.146688,
-        "label_y": 26.401789,
-        "ne_id": 1159320415,
-        "wikidataid": "Q778",
-        "name_ar": "باهاماس",
-        "name_bn": "বাহামা দ্বীপপুঞ্জ",
-        "name_zht": "巴哈馬",
-        "fclass_iso": "Admin-0 country",
-        "tlc_diff": null,
-        "fclass_tlc": "Admin-0 country",
-        "fclass_us": null,
-        "fclass_fr": null,
-        "fclass_ru": null,
-        "fclass_es": null,
-        "fclass_cn": null,
-        "fclass_tw": null,
-        "fclass_in": null,
-        "fclass_np": null,
-        "fclass_pk": null,
-        "fclass_de": null,
-        "fclass_gb": null,
-        "fclass_br": null,
-        "fclass_il": null,
-        "fclass_ps": null,
-        "fclass_sa": null,
-        "fclass_eg": null,
-        "fclass_ma": null,
-        "fclass_pt": null,
-        "fclass_ar": null,
-        "fclass_jp": null,
-        "fclass_ko": null,
-        "fclass_vn": null,
-        "fclass_tr": null,
-        "fclass_id": null,
-        "fclass_pl": null,
-        "fclass_gr": null,
-        "fclass_it": null,
-        "fclass_nl": null,
-        "fclass_se": null,
-        "fclass_bd": null,
-        "fclass_ua": null,
-        "filename": "BHS.geojson"
-      },
-      "geometry": {
-        "type": "MultiPolygon",
-        "coordinates": [
-          [
-            [
-              [
-                -78.98,
-                26.79
-              ],
-              [
-                -78.91,
-                26.42
-              ],
-              [
-                -77.82,
-                26.58
-              ],
-              [
-                -77.85,
-                26.84
-              ],
-              [
-                -78.51,
-                26.87
-              ],
-              [
-                -78.98,
-                26.79
-              ]
-            ]
-          ],
-          [
-            [
-              [
-                -77.79,
-                27.04
-              ],
-              [
-                -77.78802,
-                26.92516
-              ],
-              [
-                -77.34,
-                26.53
-              ],
-              [
-                -77.35641,
-                26.00735
-              ],
-              [
-                -77.17255,
-                25.87918
-              ],
-              [
-                -77,
-                26.59
-              ],
-              [
-                -77.79,
-                27.04
-              ]
-            ]
-          ],
-          [
-            [
-              [
-                -78.19087,
-                25.2103
-              ],
-              [
-                -78.40848,
-                24.57564
-              ],
-              [
-                -78.03405,
-                24.28615
-              ],
-              [
-                -77.78,
-                23.71
-              ],
-              [
-                -77.53466,
-                23.75975
-              ],
-              [
-                -77.54,
-                24.34
-              ],
-              [
-                -77.89,
-                25.17
-              ],
-              [
-                -78.19087,
-                25.2103
-              ]
-            ]
-          ]
-        ]
-      }
+        "name": "Bahamas" 
+    },
+  "geometry": {
+    "coordinates": [
+      [
+        -78.30465714838435,
+        25.283854249248876
+      ],
+      [
+        -78.69050531765865,
+        24.530882168124762
+      ],
+      [
+        -77.79168375117061,
+        23.549438398696253
+      ],
+      [
+        -77.15664677484823,
+        23.773150472997358
+      ],
+      [
+        -77.41066156537704,
+        24.832707817077164
+      ],
+      [
+        -76.62907759451842,
+        24.956776002717334
+      ],
+      [
+        -76.07219901528107,
+        24.37079722179675
+      ],
+      [
+        -76.08196881491718,
+        23.773150472997358
+      ],
+      [
+        -75.9158822211095,
+        23.35225623059719
+      ],
+      [
+        -75.56416943422344,
+        23.199687124047728
+      ],
+      [
+        -74.94867292360101,
+        22.776974327787357
+      ],
+      [
+        -74.31363508084866,
+        22.027284339863968
+      ],
+      [
+        -74.09869948886275,
+        21.337319689580625
+      ],
+      [
+        -73.5613605088976,
+        20.54349375772786
+      ],
+      [
+        -72.49645195467711,
+        20.981987105163213
+      ],
+      [
+        -72.7309271459345,
+        21.827897735906333
+      ],
+      [
+        -72.50622175431249,
+        22.334874330207796
+      ],
+      [
+        -73.97169169967323,
+        23.423992559066306
+      ],
+      [
+        -74.47972128073158,
+        23.65686762983566
+      ],
+      [
+        -74.17685749202377,
+        24.21050907330661
+      ],
+      [
+        -74.65557767417461,
+        24.27286727045491
+      ],
+      [
+        -75.09521865778251,
+        24.032174765566253
+      ],
+      [
+        -75.33946364867599,
+        24.655251462259884
+      ],
+      [
+        -75.85726302936969,
+        25.248727105530236
+      ],
+      [
+        -76.80493359403673,
+        25.80414050529984
+      ],
+      [
+        -76.62907720059293,
+        26.30442579954797
+      ],
+      [
+        -76.96125038820827,
+        27.089961237904035
+      ],
+      [
+        -78.30948273793962,
+        27.506683518721275
+      ],
+      [
+        -79.21807410406299,
+        26.51443065177908
+      ],
+      [
+        -78.3876411350254,
+        26.286908159375102
+      ],
+      [
+        -79.48185869422788,
+        25.610479010306875
+      ],
+      [
+        -78.30249447376384,
+        25.28012513140608
+      ]
+    ],
+    "type": "LineString"
+  }
     },
         {
             "type": "Feature",
