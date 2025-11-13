@@ -5813,7 +5813,7 @@
         "featurecla": "Admin-0 country",
         "scalerank": 1,
         "labelrank": 4,
-        "sovereignt": "The Bahamas",
+        "sovereignt": "Bahamas",
         "sov_a3": "BHS",
         "adm0_dif": 0,
         "level": 2,
@@ -6084,7 +6084,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+            "name": "Bahamas" 
+      },
       "geometry": {
         "coordinates": [
           [
@@ -6937,3 +6939,4 @@
         }
     ]
 }
+
