@@ -6080,14 +6080,7 @@
             ]
           ]
         ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-            "name": "Bahamas" 
-      },
-      "geometry": {
+      },"geometry": {
         "coordinates": [
           [
             -77.63216570099509,
@@ -6939,4 +6932,5 @@
         }
     ]
 }
+
 
